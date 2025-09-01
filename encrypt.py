@@ -7,3 +7,5 @@ def encrypt(message):
 plain_text = input("Enter a message to encrypt: ")
 encrypted = encrypt(plain_text)
 print("Encrypted message:", encrypted)
+#experimented with this file
+
